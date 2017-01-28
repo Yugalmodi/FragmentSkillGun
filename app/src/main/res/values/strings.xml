@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment SkillGun Assignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gopro">Go Pro</string>
+    <string name="point1">Thank you for using skillgun. The free version allow only 10 paper visit per day.</string>
+    <string name="point">\u2022 Unlimited Access to150 papers and 2600 questions</string>
+    <string name="point2">\u2022 Ads Free</string>
+    <string name="headline"><b><u>\nAdvantages of using PRO\n</u></b></string>
+</resources>
